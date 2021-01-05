@@ -6,6 +6,6 @@ I am based in Rasht, Iran. It has been around two years that I work as a **Full-
 
 [![Home](https://github.com/alitourani/alitourani/blob/main/Home.png "Home")](http://www.alitourani.ir/ "Home")
 [![LinkedIn](https://github.com/alitourani/alitourani/blob/main/LinkedIn.png "LinkedIn")](https://ir.linkedin.com/in/alitourani "LinkedIn")
-[![LinkedIn](https://github.com/alitourani/alitourani/blob/main/GoogleScholar.png "GoogleScholar")](http://scholar.google.com/citations?user=_VkNRkUAAAAJ&hl=en "GoogleScholar")
-[![LinkedIn](https://github.com/alitourani/alitourani/blob/main/StackOverFlow.png "StackOverFlow")](https://stackoverflow.com/users/2425822/alex-trn "StackOverFlow")
-[![LinkedIn](https://github.com/alitourani/alitourani/blob/main/ResearchGate.png "ResearchGate")](https://www.researchgate.net/profile/Ali_Tourani "ResearchGate")
+[![GoogleScholar](https://github.com/alitourani/alitourani/blob/main/GoogleScholar.png "GoogleScholar")](http://scholar.google.com/citations?user=_VkNRkUAAAAJ&hl=en "GoogleScholar")
+[![StackOverFlow](https://github.com/alitourani/alitourani/blob/main/StackOverFlow.png "StackOverFlow")](https://stackoverflow.com/users/2425822/alex-trn "StackOverFlow")
+[![ResearchGate](https://github.com/alitourani/alitourani/blob/main/ResearchGate.png "ResearchGate")](https://www.researchgate.net/profile/Ali_Tourani "ResearchGate")
