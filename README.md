@@ -9,3 +9,6 @@ I am based in Rasht, Iran. It has been around two years that I work as a **Full-
 [![](https://img.shields.io/badge/ResearchGate: Ali_Tourani-informational?style=flat&logo=researchgate&logoColor=white&color=54EC68)](https://www.researchgate.net/profile/Ali_Tourani "") [![](https://img.shields.io/badge/FaceBook: ali.tourani-informational?style=flat&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/ali.tourani "")
 [![](https://img.shields.io/badge/-a [dot] tourani1991 [at] gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=red)](#)
 [![LinkedIn](https://github.com/alitourani/alitourani/blob/main/LinkedIn.png "LinkedIn")](https://ir.linkedin.com/in/alitourani "LinkedIn")
+[![GoogleScholar](https://github.com/alitourani/alitourani/blob/main/GoogleScholar.png "GoogleScholar")](http://scholar.google.com/citations?user=_VkNRkUAAAAJ&hl=en "GoogleScholar")
+[![StackOverFlow](https://github.com/alitourani/alitourani/blob/main/StackOverFlow.png "StackOverFlow")](https://stackoverflow.com/users/2425822/alex-trn "StackOverFlow")
+[![ResearchGate](https://github.com/alitourani/alitourani/blob/main/ResearchGate.png "ResearchGate")](https://www.researchgate.net/profile/Ali_Tourani "ResearchGate")
