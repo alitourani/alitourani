@@ -1,6 +1,6 @@
 <h2 align="center">Hey there 👋, I am Ali!</h2>
 
-I am currently based in Rasht, Iran, fascinated by the computer world more than the real one! I have some experience in working as a **Full-Stack developer**. Also, I enthusiastically conduct some works in **Computer Vision** and **Deep Learning**.
+I am currently based in Luxembourg, working as a Doctoral Researcher at the Interdisciplinary Center for Security Reliability and Trust (SnT) of the University of Luxembourg. I enthusiastically conduct research in **Computer Vision**, **Artificial Intelligence - Automation**, and **Machine Learning**.
 
 #### 📫 Where to find me
 
