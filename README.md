@@ -3,7 +3,7 @@
 I am currently based in Luxembourg, working as a Doctoral Researcher at the [Interdisciplinary Center for Security Reliability, and Trust (SnT)](https://wwwen.uni.lu/snt "Interdisciplinary Center for Security Reliability, and Trust (SnT)"). I enthusiastically conduct research in **Computer Vision**, **Machine Learning**, **Deep Learning**, and **Situational Awareness**.
 
 <p align="center">
-    <img src="programmer.gif" width="250px" alt="Programmer" style="margin: 15px; justify-content: center;"/>
+    <img src="programmer.gif" width="150px" alt="Programmer" style="margin: 15px; justify-content: center;"/>
 </p>
 
 #### 📫 Where to find me
