@@ -1,10 +1,13 @@
 <h2 style="text-align: center;">Hey there 👋, I am Ali!</h2>
 
+<div style="display: grid; gap: 4px; grid-auto-flow: column;">
+
 I am currently based in Luxembourg, working as a Doctoral Researcher at the [Interdisciplinary Center for Security Reliability, and Trust (SnT)](https://wwwen.uni.lu/snt "Interdisciplinary Center for Security Reliability, and Trust (SnT)"). I enthusiastically conduct research in **Computer Vision**, **Machine Learning**, **Deep Learning**, and **Situational Awareness**.
 
 <p align="center">
     <img src="programmer.gif" alt="Programmer" style="margin: 15px; justify-content: center;"/>
 </p>
+</div>
 
 #### 📫 Where to find me
 
