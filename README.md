@@ -5,15 +5,16 @@
         <!-- Content related to research -->
         <p>I am based in Luxembourg, currently conducting research in <b>Computer Vision</b>, <b>Situational Awareness</b>, and <b>Robotics</b> at the Automation & Robotics Research Group (ARG) of the <a href="https://www.uni.lu/snt-en/" target="_blank">Interdisciplinary Center for Security Reliability, and Trust (SnT)</a>, University of Luxembourg.</p>
     </div>
+    <!--
     <div style="flex: 1;">
-        <!-- Content related to the image -->
         <p align="center">
             <img src="programmer.gif" alt="Programmer" style="margin: 10px;"/>
         </p>
     </div>
+    -->
 </div>
 
-<div style="text-align:center;">
+<div style="text-align:center; display: flex; gap: 20px; align-items: center;">
     <a href="#">
         <img  alt="alitourani's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/alitourani?cardType=github&theme=merko&preferLogin=false" />
     </a>
