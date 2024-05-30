@@ -33,6 +33,7 @@
     <a href="https://uni-lu.academia.edu/AliTourani" target="_blank"><img src="logos/academia.svg" width="30px" alt="Academia" /></a>
     <a href="https://www.webofscience.com/wos/author/record/HNQ-0031-2023" target="_blank"><img src="logos/publons.svg" width="30px" alt="WoS" /></a>
     <a href="https://stackoverflow.com/users/2425822/ali-tourani" target="_blank"><img src="logos/stackoverflow.svg" width="30px" alt="StackOverflow" /></a>
+    <a href="https://huggingface.co/alitourani" target="_blank"><img src="logos/hf-logo.svg" width="30px" alt="HuggingFace" /></a>
     <a href="https://twitter.com/a_tourani" target="_blank"><img src="logos/twitter.svg" width="30px" alt="Twitter" /></a>
     <a href="https://www.instagram.com/alitourani_" target="_blank"><img src="logos/instagram.svg" width="30px" alt="Instagram" /></a>
     <a href="https://www.facebook.com/ali.tourani/" target="_blank"><img src="logos/facebook.svg" width="30px" alt="Facebook" /></a>
