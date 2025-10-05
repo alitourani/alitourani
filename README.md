@@ -22,7 +22,7 @@
 
 ### 📫 Where to Find Me:
 
-<div style="display: flex; width: 100%; padding: 0 20px; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; width: 100%; padding: 0 20px; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
     <a href="https://alitourani.github.io/" target="_blank"><img src="logos/home.svg" width="30px" alt="Home" /></a>
     <a href="https://www.uni.lu/snt-en/people/ali-tourani/" target="_blank"><img src="logos/unilu.svg" width="30px" alt="Web-Page" /></a>
     <a href="https://github.com/alitourani" target="_blank"><img src="logos/github.svg" width="30px" alt="GitHub" /></a>
