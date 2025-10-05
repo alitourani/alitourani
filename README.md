@@ -7,16 +7,16 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alitourani&theme=default&show_icons=true&hide_border=true&count_private=true" 
-    alt="alitourani's GitHub Stats" 
-    height="120"
-  />
+<div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img 
     src="programmer.gif" 
     alt="Programmer" 
-    height="120"
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=alitourani&theme=default&show_icons=true&hide_border=true&count_private=true" 
+    alt="alitourani's GitHub Stats" 
+    height="150"
   />
 </div>
 
