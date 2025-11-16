@@ -3,7 +3,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
     <div style="flex: 1; display: grid; gap: 4px; grid-auto-flow: column;">
         <!-- Content related to research -->
-        <p>Currently based in Luxembourg, conducting research in <b>Computer Vision</b>, <b>Robot Perception</b>, and <b>Generative AI</b> at the Automation & Robotics Research Group (ARG) of the <a href="https://www.uni.lu/snt-en/" target="_blank">Interdisciplinary Center for Security Reliability, and Trust (SnT)</a>, University of Luxembourg.</p>
+        <p>Based in Luxembourg, conducting research in <b>Computer Vision</b>, <b>Robot Perception</b>, and <b>Generative AI</b> at the Automation & Robotics Research Group (ARG) of the <a href="https://www.uni.lu/snt-en/" target="_blank">Interdisciplinary Center for Security Reliability, and Trust (SnT)</a>, University of Luxembourg.</p>
     </div>
 </div>
 
@@ -19,6 +19,15 @@
     height="150"
   />
 </div>
+
+### ⭐ Featured Projects
+
+- **Robotics:** [vS-Graphs](https://github.com/snt-arg/visual_sgraphs) |  [iMarker](https://github.com/snt-arg/iMarker_detector_standalone) | [Robot-Suite](https://github.com/snt-arg/robot_suite) | [Scene Segment ROS](https://github.com/snt-arg/scene_segment_ros)
+- **Generative AI:** [RAG-VisualRec](https://github.com/RecSys-lab/RAG-VisualRec)
+- **Dataset:** [Popcorn Dataset](https://recsys-lab.github.io/popcorn_dataset/) | [Iranis](https://github.com/alitourani/Iranis-dataset) | [SMapper-Light](https://huggingface.co/datasets/snt-arg/smapper-light)
+- **Information Retrieval:** [Popcorn (Movie Recommender)](https://github.com/RecSys-lab/Popcorn) | [CAPRI](https://github.com/CapriRecSys/CAPRI)
+- **Computer Vision:** [YOLO-LPD](https://github.com/alitourani/yolo-license-plate-detection) | [Vehicle Detection](https://github.com/alitourani/deep-learning-vehicle-detection) | [Speed Measurement](https://github.com/alitourani/vehicle-speed-measurement)
+
 
 
 ### 📌 Where to Find Me
