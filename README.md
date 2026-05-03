@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Hey 👋, Good to See You!</h2>
+<h2 style="text-align: center;">Hey there, I'm Ali 👋</h2>
 
 <div style="display: flex; gap: 20px; align-items: center;">
     <div style="flex: 1; display: grid; gap: 4px; grid-auto-flow: column;">
@@ -7,32 +7,50 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<!-- <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img 
     src="programmer.gif" 
     alt="Programmer" 
-    height="150"
+    height="130"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alitourani&theme=default&show_icons=true&hide_border=true&count_private=true" 
-    alt="alitourani's GitHub Stats" 
-    height="150"
-  />
-</div>
+</div> -->
 
 ### ⭐ Featured Projects
 
-- **Robotics:** [vS-Graphs](https://github.com/snt-arg/visual_sgraphs) |  [iMarker](https://github.com/snt-arg/iMarker_detector_standalone) | [Robot-Suite](https://github.com/snt-arg/robot_suite) | [Scene Segment ROS](https://github.com/snt-arg/scene_segment_ros)
-- **Generative AI:** [RAG-VisualRec](https://github.com/RecSys-lab/RAG-VisualRec)
-- **Dataset:** [Popcorn Dataset](https://recsys-lab.github.io/popcorn_dataset/) | [Iranis](https://github.com/alitourani/Iranis-dataset) | [SMapper-Light](https://huggingface.co/datasets/snt-arg/smapper-light)
-- **Information Retrieval:** [Popcorn (Movie Recommender)](https://github.com/RecSys-lab/Popcorn) | [CAPRI](https://github.com/CapriRecSys/CAPRI)
-- **Computer Vision:** [YOLO-LPD](https://github.com/alitourani/yolo-license-plate-detection) | [Vehicle Detection](https://github.com/alitourani/deep-learning-vehicle-detection) | [Speed Measurement](https://github.com/alitourani/vehicle-speed-measurement)
+- **🤖 Robotics & Perception:** [vS-Graphs](https://github.com/snt-arg/visual_sgraphs) |  [iMarker](https://github.com/snt-arg/iMarker_detector_standalone) | [Robot-Suite](https://github.com/snt-arg/robot_suite) | [Scene Segment ROS](https://github.com/snt-arg/scene_segment_ros)
+- **🧠 Generative AI & LLMs:** [RAG-VisualRec](https://github.com/RecSys-lab/RAG-VisualRec)
+- **👁️ Computer Vision:** [YOLO-LPD](https://github.com/alitourani/yolo-license-plate-detection) | [Vehicle Detection](https://github.com/alitourani/deep-learning-vehicle-detection) | [Speed Measurement](https://github.com/alitourani/vehicle-speed-measurement)
+- **🗂️ Datasets:** [Popcorn Dataset](https://recsys-lab.github.io/popcorn_dataset/) | [Iranis](https://github.com/alitourani/Iranis-dataset) | [SMapper-Light](https://huggingface.co/datasets/snt-arg/smapper-light)
+- **🔍 Information Retrieval & RecSys** [Popcorn (Movie Recommender)](https://github.com/RecSys-lab/Popcorn) | [CAPRI](https://github.com/CapriRecSys/CAPRI)
 
 
 
 ### 📌 Where to Find Me
 
-<div style="display: flex; width: 100%; padding: 0 20px; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+[![Static Badge](https://img.shields.io/badge/Home-alitourani.github.io-gold?style=flat-square)](https://alitourani.github.io/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-alitourani-%23236CFF?style=flat-square&logo=inspire&logoColor=%23236CFF)](https://www.linkedin.com/in/alitourani/)
+[![Static Badge](https://img.shields.io/badge/GitHub-alitourani-green?style=flat-square&logo=github)](https://github.com/alitourani)
+[![Static Badge](https://img.shields.io/badge/GoogleScholar-alitourani-%234285F4?style=flat-square&logo=googlescholar&logoColor=%234285F4)](http://scholar.google.com/citations?user=_VkNRkUAAAAJ&hl=en)
+[![Static Badge](https://img.shields.io/badge/X-ali_tourani-%23000000?style=flat-square&logo=x&logoColor=%23000000)](https://twitter.com/a_tourani)
+[![Static Badge](https://img.shields.io/badge/ORCiD-alitourani-%23A6CE39?style=flat-square&logo=orcid&logoColor=%23A6CE39)](https://orcid.org/0000-0002-6955-1172)
+[![Static Badge](https://img.shields.io/badge/ResearchGate-AliTourani2-%2300CCBB?style=flat-square&logo=researchgate&logoColor=%2300CCBB)](https://www.researchgate.net/profile/Ali-Tourani-2)
+[![Static Badge](https://img.shields.io/badge/Academia-AliTourani-%2341454A?style=flat-square&logo=academia&logoColor=%2341454A)
+](https://uni-lu.academia.edu/AliTourani)
+[![Static Badge](https://img.shields.io/badge/Clarivate-AliTourani-%2393FF9E?style=flat-square&logo=clarivate&logoColor=%2393FF9E)
+](https://www.webofscience.com/wos/author/record/HNQ-0031-2023)
+[![Static Badge](https://img.shields.io/badge/StackOverflow-AliTourani-%23F58025?style=flat-square&logo=stackoverflow&logoColor=%23F58025)
+](https://stackoverflow.com/users/2425822/ali-tourani)
+[![Static Badge](https://img.shields.io/badge/HuggingFace-AliTourani-%23FFD21E?style=flat-square&logo=huggingface&logoColor=%23FFD21E)
+](https://huggingface.co/alitourani)
+[![Static Badge](https://img.shields.io/badge/Medium-alitourani-%23000000?style=flat-square&logo=medium&logoColor=%23000000)](https://medium.com/@alitourani)
+[![Static Badge](https://img.shields.io/badge/BlueSky-alitourani-%231185FE?style=flat-square&logo=bluesky&logoColor=%231185FE)
+](https://bsky.app/profile/alitourani.bsky.social)
+[![Static Badge](https://img.shields.io/badge/Discord-alitourani-%235865F2?style=flat-square&logo=discord&logoColor=%235865F2)](https://discord.com/users/alitourani)
+[![Static Badge](https://img.shields.io/badge/Instagram-alitourani_-%23FF0069?style=flat-square&logo=instagram&logoColor=%23FF0069)](https://www.instagram.com/alitourani_)
+[![Static Badge](https://img.shields.io/badge/Facebook-ali.tourani-%230866FF?style=flat-square&logo=facebook&logoColor=%230866FF)](https://www.facebook.com/ali.tourani/)
+[![Static Badge](https://img.shields.io/badge/YouTube-a_tourani-%23FF0000?style=flat-square&logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@a_tourani)
+
+<!-- <div style="display: flex; width: 100%; padding: 0 20px; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
     <a href="https://alitourani.github.io/" target="_blank"><img src="logos/home.svg" width="30px" alt="Home" /></a>
     <a href="https://www.uni.lu/snt-en/people/ali-tourani/" target="_blank"><img src="logos/unilu.svg" width="30px" alt="Web-Page" /></a>
     <a href="https://www.linkedin.com/in/alitourani/" target="_blank"><img src="logos/linkedin.svg" width="30px" alt="LinkedIn" /></a>
@@ -51,4 +69,5 @@
     <a href="https://www.instagram.com/alitourani_" target="_blank"><img src="logos/instagram.svg" width="30px" alt="Instagram" /></a>
     <a href="https://www.facebook.com/ali.tourani/" target="_blank"><img src="logos/facebook.svg" width="30px" alt="Facebook" /></a>
     <a href="https://www.youtube.com/@a_tourani" target="_blank"><img src="logos/youtube.svg" width="30px" alt="YouTube" /></a>
-</div>
+</div> -->
+
