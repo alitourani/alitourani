@@ -2,8 +2,9 @@
 
 <div style="display: flex; gap: 20px; align-items: center;">
     <div style="flex: 1; display: grid; gap: 4px; grid-auto-flow: column;">
-        <!-- Content related to research -->
-        <p>Based in Luxembourg, conducting research in <b>Computer Vision</b>, <b>Robot Perception</b>, and <b>Generative AI</b> at the Automation & Robotics Research Group (ARG) of the <a href="https://www.uni.lu/snt-en/" target="_blank">Interdisciplinary Center for Security Reliability, and Trust (SnT)</a>, University of Luxembourg.</p>
+        <p>
+        <b>R&D Specialist</b> & <b>Senior Software Developer</b> 🔸 Computer Vision, Generative AI & Robotics Researcher at <a href="https://www.uni.lu/snt-en/" target="_blank">SnT</a>, UniLu 🔸 Based in Luxembourg 🔸 Open-source enthusiast building research-grade systems.
+        </p>
     </div>
 </div>
 
