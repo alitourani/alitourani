@@ -3,7 +3,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
     <div style="flex: 1; display: grid; gap: 4px; grid-auto-flow: column;">
         <p>
-        <b>R&D Specialist</b> & <b>Senior Software Developer</b> 🔸 Computer Vision, Generative AI & Robotics Researcher at <a href="https://www.uni.lu/snt-en/" target="_blank">SnT</a>, UniLu 🔸 Based in Luxembourg 🔸 Open-source enthusiast building research-grade systems.
+        <b>R&D Specialist</b> & <b>Senior Software Developer</b> 🔸 Computer Vision, Generative AI & Robotics Researcher 🔸 Based in Luxembourg 🔸 Open-source Enthusiast Building Research-grade Systems.
         </p>
     </div>
 </div>
