@@ -3,10 +3,12 @@
 <div style="display: flex; gap: 20px; align-items: center;">
     <div style="flex: 1; display: grid; gap: 4px; grid-auto-flow: column;">
         <p>
-        <b>R&D Specialist</b> & <b>Senior Software Developer</b> 🔸 Computer Vision, Generative AI & Robotics Researcher 🔸 Based in Luxembourg 🔸 Open-source Enthusiast Building Research-grade Systems.
+        <b>R&D Specialist</b> & <b>Senior Software Developer</b> 🔸 Computer Vision, Embodied AI & Robotics Researcher 🔸 Based in Luxembourg 🔸 Open-source enthusiast building research-grade systems.
         </p>
     </div>
 </div>
+
+[![Total Stars](https://img.shields.io/github/stars/alitourani?style=flat-square&color=%23FFD21E&label=GitHub_Stars)](https://github.com/alitourani)
 
 <!-- <div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img 
@@ -23,8 +25,6 @@
 - **👁️ Computer Vision:** [Vision Paper Hub](https://github.com/alitourani/vision-paper-hub) | [License Plate Detection](https://github.com/alitourani/yolo-license-plate-detection) | [Vehicle Detection](https://github.com/alitourani/deep-learning-vehicle-detection) | [Vehicle Speed Measurement](https://github.com/alitourani/vehicle-speed-measurement)
 - **🗂️ Datasets:** [VLM-Thumbnails](https://huggingface.co/datasets/alitourani/movielens-25m-thumb) | [Popcorn](https://recsys-lab.github.io/popcorn_dataset/) | [Iranis](https://github.com/alitourani/Iranis-dataset) | [SMapper-Light](https://huggingface.co/datasets/snt-arg/smapper-light)
 - **🔍 Information Retrieval & RecSys** [Popcorn Framework](https://github.com/RecSys-lab/Popcorn) | [CAPRI](https://github.com/CapriRecSys/CAPRI)
-
-
 
 ### 📌 Where to Find Me
 
